@@ -1,0 +1,1 @@
+A repo for the CS50 class offered online by Harvard. My code from half of the class is included. I only completed the first half since it stopped using C and I am not interested in doing web development anytime soon.
